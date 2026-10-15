@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\VS\\projects\\dotNet_Semko\\PZ1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C42F854-1A00-4942-BB00-04677FA07477}|PZ1\\PZ1.csproj|d:\\vs\\projects\\dotnet_semko\\pz1\\pz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C42F854-1A00-4942-BB00-04677FA07477}|PZ1\\PZ1.csproj|solutionrelative:pz1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\VS\\projects\\dotNet_Semko\\PZ1\\PZ1\\Program.cs",
+              "RelativeDocumentMoniker": "PZ1\\Program.cs",
+              "ToolTip": "D:\\VS\\projects\\dotNet_Semko\\PZ1\\PZ1\\Program.cs",
+              "RelativeToolTip": "PZ1\\Program.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAuwGAAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-07T17:55:59.828Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
