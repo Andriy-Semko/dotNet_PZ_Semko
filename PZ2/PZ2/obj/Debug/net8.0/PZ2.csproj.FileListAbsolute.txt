@@ -1,0 +1,15 @@
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.AssemblyInfoInputs.cache
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.AssemblyInfo.cs
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.csproj.CoreCompileInputs.cache
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.sourcelink.json
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\bin\Debug\net8.0\PZ2.exe
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\bin\Debug\net8.0\PZ2.deps.json
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\bin\Debug\net8.0\PZ2.runtimeconfig.json
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\bin\Debug\net8.0\PZ2.dll
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\bin\Debug\net8.0\PZ2.pdb
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.dll
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\refint\PZ2.dll
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.pdb
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\PZ2.genruntimeconfig.cache
+D:\VS\projects\dotNet_Semko\PZ2\PZ2\obj\Debug\net8.0\ref\PZ2.dll

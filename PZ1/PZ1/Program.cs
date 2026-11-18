@@ -8,45 +8,31 @@
         while (isRunning)
         {
             Console.WriteLine("\n=== Меню ===");
-            Console.WriteLine("1. Вихід");
-            Console.WriteLine("2. км → милі");
-            Console.WriteLine("3. милі → км");
-            Console.WriteLine("4. кг → фунти");
-            Console.WriteLine("5. фунти → кг");
-            Console.WriteLine("6. °C → °F");
-            Console.WriteLine("7. °F → °C");
+            Console.WriteLine("0. Вихід\n1. Додати співробітника\n2. Показати список співробітників\n3. Показати сумарний фонд\n4. Показати співробітників відсортованих по їх заробітній платі");
 
-            int choice = ReadInt("Виберіть дію: ", 1, 7);
+            int choice = ReadInt("Виберіть дію: ", 0, 4);
             float input;
 
             switch (choice)
             {
-                case 1:
+                case 0:
                     isRunning = false;
                     break;
-                case 2:
+                case 1:
                     input = ReadFloat("Введіть значення: ", 0);
                     Console.WriteLine(input + "км = " + KmToMilTransfere(input) + "миль");
                     break;
-                case 3:
+                case 2:
                     input = ReadFloat("Введіть значення: ", 0);
                     Console.WriteLine(input + "миль = " + MilToKmTransfere(input) + "км");
                     break;
-                case 4:
+                case 3:
                     input = ReadFloat("Введіть значення: ", 0);
                     Console.WriteLine(input + "кг = " + KgToFuTransfere(input) + "фунти");
                     break;
-                case 5:
+                case 4:
                     input = ReadFloat("Введіть значення: ", 0);
                     Console.WriteLine(input + "фунти = " + FuToKgTransfere(input) + "кг");
-                    break;
-                case 6:
-                    input = ReadFloat("Введіть значення: ", -273.15f);
-                    Console.WriteLine(input + "°C = " + CelsToFarTransfere(input) + "°F");
-                    break;
-                case 7:
-                    input = ReadFloat("Введіть значення: ", -459.67f);
-                    Console.WriteLine(input + "°F = " + FarToCelsTransfere(input) + "°C");
                     break;
             };
         }
